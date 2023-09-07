@@ -1,6 +1,6 @@
 # 23Summer_Backend_Study
 
-도서: 예제로 배우는 백엔드 프로그래밍 PHP+MySQL 입문 (황재호 지음)
+도서: 예제로 배우는 백엔드 프로그래밍 PHP+MySQL 입문 (황재호 지음) <br/>
 -Part 1. PHP 기초 – CH1 ~ CH7
 -Part 2. MySQL 데이터베이스 – CH8 ~ CH10
 -Part 3. 실전! 웹 사이트 구축 – CH11 ~ CH14
